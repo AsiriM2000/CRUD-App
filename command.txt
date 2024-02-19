@@ -1,0 +1,12 @@
+/*----------------------*/
+client
+
+01. npm init vite
+02. cd folder npm install
+03. npm install bootstrap axios react-router-dom
+
+/*----------------------*/
+server
+
+01.npm init -y
+02.npm install express mongoose cors nodemon
